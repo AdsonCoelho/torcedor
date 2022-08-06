@@ -8,7 +8,62 @@
 	<meta http-equiv="cache-control" content="no-cache" />		
 	
 </head>
+<script language="javascript">
+			
+	function preload(){
+		imgs=Array('f1.jpeg','f2.jpeg','f3.jpeg');
+		imgQtde=imgs.length;
+		for (i=0;i<imgs;i++){
+			var preloadimg=new Image();
+			preloadimg.src=imgs[1];
+		}
+	}
 
+	function iniciaSlider(){
+		preload();
+		max=3;
+		min=1;
+		fi=min;
+		tr=true;
+		carregaFoto("imagens/f1.jpeg");
+		document.getElementById("moldura").addEventListener("transitionend",fimTr);
+		tmr=setInterval(trocaFoto,4000);
+	}
+	
+	function trocaFoto(){
+		tr=false;
+		fi++;
+		if (fi>max){
+			fi=min;
+		}
+		carregaFoto("imagens/f"+fi+".jpeg");
+	}
+
+	function fimTr(){
+		tr=true;	
+	}
+
+	function carregaFoto(foto){
+		document.getElementById("moldura").style.backgroundImage="URL("+foto+")";
+	}
+
+	function troca(dr){
+		clearInterval(tmr);
+		if(tr){
+			tr=false;
+			fi+=dr;
+			if(fi>max){
+				fi=min;
+			}
+			if(fi<min){
+				fi=max;
+			}
+			carregaFoto("imagens/f"+fi+".jpeg");
+		}
+		tmr=setInterval(trocaFoto,6000);
+	}
+
+</script>
 <body onload="iniciaSlider()">
 	
 		<nav class="menu">
@@ -29,7 +84,7 @@
 			</div>		
 		</section>
 
-		<div class="moldbt"></div>
+		<div class="moldbt">
 			<div class="mold" id="moldura">		
 				<input type="button" value="Anterior"onclick="troca(-1)"/>
 				<input type="button" value="Próximo" onclick="troca(1)"/>

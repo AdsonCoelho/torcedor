@@ -1,0 +1,46 @@
+html { 
+    font-family: sans-serif; 
+    background: #eee; 
+    padding: 1rem;
+  }
+  
+  body {
+    max-width: 1200px; 
+    margin: 0 auto; 
+    background: rgb(20, 247, 20);
+  }
+
+  .cabecalho{
+    position:relative;
+    color: rgb(0, 0, 0); 
+    font-family: cursive;
+    
+   }
+  
+  .menu{
+    text-align: center;
+    background-color: black;
+       
+  }
+
+  .menu a{
+    color: rgb(255, 255, 255);
+       font-size: 22px;
+      font-family: cursive;
+    padding: 15px;
+    flex: auto;
+  }
+
+
+  #moldura{
+    width: 650px;
+    height: 500px;
+    background-color:rgb(230, 230, 230);
+    transition: background-image 1s;
+    text-align: center;	
+}
+
+.moldbt{
+  position: relative;
+  text-align: center;
+}
