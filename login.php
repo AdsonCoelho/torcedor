@@ -17,28 +17,30 @@
 
         <div class="header">
             <div class="center">
-                <img src=""/>
+                <img src="imagens/fundo.png"/>
             </div>
         </div>
         
        
-        <main class="conteudo">
+        <main class="container-banner">
             <div class="center">
                 <div class="form">
                     <h2> Fazer login no sistema </h2>
                     <form method="POST"> 
-                        <div>    
+    					<div class="input-container">
                             <label for="username">Username: </label>
                             <input id="username" name="username" required>
                         </div>
         
-                        <div>    
+    					<div class="input-container">
                             <label for="password">Password: </label>
                             <input id="password" name="password" required type="password">    
                         </div>    
                     
                         <p class="warning"> Campos obrigatórios </p>
-                        <input type="submit" value="Enviar">    
+                        <div class="input-submit-container">
+                            <input type="submit" value="Enviar">    
+                        </div>
                     </form>                
                 </div>
         

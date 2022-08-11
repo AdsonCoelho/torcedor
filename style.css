@@ -2,28 +2,44 @@ html {
     font-family: sans-serif; 
     background: rgb(0, 0, 0); 
     padding: 1rem;
-  }
+}
   
-  body {
+body {
     max-width: 1200px; 
     margin: 0 auto; 
     background: rgb(20, 247, 20);
-  }
+}
 
-  .cabecalho{
+.center{
+  width: 1280px;
+   margin: 0 auto;
+}
+
+.header{
+  width: 100%;
+  height: 60px;
+  
+}
+
+.header img{
+  margin: 15px;
+
+}
+
+.cabecalho{
     position:relative;
     color: rgb(0, 0, 0); 
     font-family: cursive;
     
-   }
+}
   
-  .menu{
+.menu{
     text-align: center;
     background-color: rgb(255, 230, 10);
        
-  }
+}
 
-  .menu a{
+.menu a{
     color: rgb(0, 0, 0);
       font-size: 22px;
       font-family: cursive;
@@ -31,11 +47,11 @@ html {
       flex: auto;
   }
 
-  .mold{
+.mold{
     position: relative;
     left: 25%;
   
-  }
+}
 
 
   #moldura{
@@ -55,18 +71,86 @@ html {
   font-style: italic;
 }
 
-.form{
-  width: 400px;
-  height: calc(100% + 30px);
-  float: right;
-  position: relative;
-  top: -15px;
-  border: 5px solid #ccc;
-  background-color: white;
-}
-
 .img_rodape{
   position:absolute;
   width: 50px; 
   left: 50%;
+}
+
+.container-banner{
+	width: 100%;
+	height: 557px;
+	background-image:url('../images/header_bg.png');
+	background-size: cover;
+	background-position: center;
+}
+
+.container-banner > .center{
+	height: 100%;
+	/*text-align: right;*/
+}
+
+.form{
+	padding:10px;
+	width: 300px;
+	
+	float: right;
+	position: relative;
+	top:-15px;
+	border:8px solid #ccc;
+	background-color: white;
+}
+
+.form h2{
+	font-weight: normal;
+	color: #999999;
+	font-size: 21px;
+}
+
+.input-container{
+	margin-top:10px;
+}
+
+.input-container span{
+	display: inline-block;
+	width: 100%;
+	color: #BBBBBB;
+	font-size: 17px;
+}
+
+.form p{
+	display: inline-block;
+	width: 100%;
+	color: #BBBBBB;
+	font-size: 17px;
+	margin:20px 0;
+}
+
+.input-container input[type=text]{
+	margin-top:8px;
+	width: 344px;
+	height: 55px;
+	border:1px solid #ccc;
+}
+
+.form .input-submit-container{
+	text-align: center;
+}
+
+.form input[type=submit]{
+	color: white;
+	font-size: 25px;
+	width: 280px;
+	height: 56px;
+	display: inline-block;
+	background-color: #007910;
+	border-top:0;
+	border-right: 0;
+	border-left: 0;
+	cursor: pointer;
+	border-bottom: 5px solid #4a9786;
+}
+
+.form input[type=submit]:hover{
+	background-color: #323665;
 }
