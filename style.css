@@ -93,8 +93,7 @@ body {
 .form{
 	padding:10px;
 	width: 300px;
-	
-	float: right;
+	float: center;
 	position: relative;
 	top:-15px;
 	border:8px solid #ccc;
@@ -152,5 +151,5 @@ body {
 }
 
 .form input[type=submit]:hover{
-	background-color: #323665;
+	background-color: #009146;
 }
