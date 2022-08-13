@@ -11,8 +11,10 @@
     <body>
         <nav class="menu">
             <a class="" href="index.html">Inicio</a>
+            <a class="" href="">Campeonatos</a>
+            <a class="" href="">Postagens</a>
             <a class="" href="sobre.html">Sobre</a>
-            <a class="" href="login.html">Login</a>			
+            <a class="" href="login.php">Login</a>			
         </nav>
 
         <div class="header">
