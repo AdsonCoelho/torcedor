@@ -19,7 +19,7 @@
 
         <div class="header">
             <div class="center">
-                <img src="imagens/fundo.png"/>
+                <img src="imagens/fundo.png" class="img_fundo"/>
             </div>
         </div>
         

@@ -93,10 +93,11 @@ body {
 .form{
 	padding:10px;
 	width: 300px;
-	float: right;
-	position: relative;
+/*	float: center;
+	position: relative;*/
+	left: 50%;
 	top:-15px;
-	border:8px solid #ccc;
+	border:8px solid #007910;
 	background-color: white;
 }
 
@@ -152,4 +153,9 @@ body {
 
 .form input[type=submit]:hover{
 	background-color: #009146;
+}
+
+.img_fundo{
+	width: 650px;
+	height: 550px;
 }
