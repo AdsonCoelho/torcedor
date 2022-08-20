@@ -16,7 +16,13 @@
             <a class="" href="sobre.html">Sobre</a>
             <a class="" href="login.php">Login</a>			
         </nav>
-  
+
+        <div class="header">
+            <div class="center">
+                <img src="imagens/fundo2.png" class="img_fundo"/>
+            </div>
+        </div>
+
         <main class="container-banner">
             <div class="center">
                 <div class="form">
@@ -29,7 +35,7 @@
         
     					<div class="input-container">
                             <label for="descricao">Descrição do post: </label>
-                            <textarea id="w3review" name="w3review" rows="4" cols="50">  
+                            <textarea id="story" name="story" ></textarea>
                         </div>    
                     
                         <p class="warning"> Campos obrigatórios </p>
