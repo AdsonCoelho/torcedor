@@ -29,7 +29,7 @@
         
     					<div class="input-container">
                             <label for="descricao">Descrição do post: </label>
-                            <input id="descricao" name="descricao" required>    
+                            <textarea id="w3review" name="w3review" rows="4" cols="50">  
                         </div>    
                     
                         <p class="warning"> Campos obrigatórios </p>
