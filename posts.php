@@ -10,12 +10,8 @@
     </head>
     <body>
         <nav class="menu">
-            <a class="" href="index.html">Inicio</a>
-            <a class="" href="https://www.cbf.com.br/futebol-brasileiro">Campeonatos</a>
-            <a class="" href="posts.php">Postagens</a>
-            <a class="" href="sobre.html">Sobre</a>
-            <a class="" href="login.php">Login</a>			
-        </nav>
+            <object width="100%" height="55px" data="menu.html"></object>	
+	    </nav>
 
         <div class="header">
             <div class="center">
