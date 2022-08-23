@@ -30,7 +30,7 @@ body{max-width:1200px; margin: 0 auto; background: rgb(20, 247, 20);font-family:
 .form h2{font-weight: normal;color: #999999;font-size: 21px;}
 .form p{display: inline-block;width: 100%;color: #BBBBBB;font-size: 17px;margin:20px 0;}
 .form .input-submit-container{text-align: center;}
-.form input[type=submit]{color: white;	font-size: 25px;width: 280px;height: 56px;display: inline-block;
+.form .input[type=submit]{color: white;	font-size: 25px;width: 280px;height: 56px;display: inline-block;
 	background-color: #007910;border-top:0;border-right: 0;border-left: 0;
 	cursor: pointer;border-bottom: 5px solid #4a9786;}
 .form input[type=submit]:hover{	background-color: #009146;}
