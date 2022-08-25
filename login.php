@@ -10,7 +10,7 @@
     </head>
     <body>
         <nav class="menu">
-            <object width="100%" height="65px" data="menu.html"></object>	
+            <object data="menu.html"></object>	
         </nav>
 
         <div class="header">
