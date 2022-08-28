@@ -9,9 +9,9 @@
 	
 	<body class="">
 
-		<nav class="menu">
-			<object width="100%" height="65px" data="menu.html"></object>	
-		</nav>
+	<?php
+		include "menu.php";
+	?>
 
 	
 	<main class="conteudo">

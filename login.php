@@ -9,9 +9,9 @@
         
     </head>
     <body>
-        <nav class="menu">
-            <object data="menu.html"></object>	
-        </nav>
+     <?php
+	    include "menu.php";
+	?>
 
         <div class="header">
             <div class="center">

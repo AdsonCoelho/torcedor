@@ -67,9 +67,9 @@
 </script>
 <body onload="iniciaSlider()">
 	
-		<nav class="menu">
-			<object width="100%"  data="menu.html"></object>	
-		</nav>
+	<?php
+	include "menu.php";
+	?>
 
 	
 	<main class="conteudo">

@@ -10,21 +10,19 @@
     </head>
     <body>
         <nav>
-        <ul class="menu_resp">
-            <li><a class="" href="index.html">Home</a></li>
-            <li><a class="" href="login.php">Login</a></li>	
-            <li><a class="" href="posts.php">Postagens</a></li>
-            <li><a class="" href="https://www.cbf.com.br">Campeonatos</a></li>
-            <li><a class="" href="sobre.html">Sobre</a></li>
-                <li><a href="#">O que fazemos?</a>
+            <ul class="menu_resp">
+                <li><a class="" href="index.php">Home</a></li>
+                <li><a class="" href="login.php">Login</a></li>	
+                <li><a class="" href="posts.php">Postagens</a></li>
+                <li><a class="" href="https://www.cbf.com.br">Campeonatos</a></li>
+                <li><a class="" href="sobre.html">Sobre</a>
                     <ul>
                         <li><a href="#">Quem somos</a></li>
                         <li><a href="#">Onde estamos</a></li>
                         <li><a href="#">Siga nossas páginas</a></li>
                     </ul>
-            </li>
-              </ul>
-                   
-        </nav>
+                </li>
+            </ul>
+         </nav>
     </body>
 </html>
