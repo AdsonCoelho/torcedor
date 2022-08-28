@@ -9,12 +9,13 @@
         
     </head>
     <body>
+        
      <?php
 	    include "menu.php";
 	?>
 
         <div class="header">
-            <div class="center">
+            <div class="">
                 <img src="imagens/fundo.png" class="img_fundo"/>
             </div>
         </div>

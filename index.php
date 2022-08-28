@@ -77,8 +77,6 @@
 			<div class="">
 				<h1>Bem vindos ao blog da torcida!</h1>
 			</div>
-	
-			
 		</section>
 
 		<div class="moldbt"></div>

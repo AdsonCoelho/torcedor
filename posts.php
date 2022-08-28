@@ -9,12 +9,15 @@
         
     </head>
     <body>
-        <nav class="menu">
-            <object width="100%" height="55px" data="menu.html"></object>	
-	    </nav>
+        
+     <?php
+	    include "menu.php";
+	?>
+
+     
 
         <div class="header">
-            <div class="center">
+            <div class="">
                 <img src="imagens/fundo2.png" class="img_fundo"/>
             </div>
         </div>

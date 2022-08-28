@@ -15,9 +15,9 @@
                 <li><a class="" href="login.php">Login</a></li>	
                 <li><a class="" href="posts.php">Postagens</a></li>
                 <li><a class="" href="https://www.cbf.com.br">Campeonatos</a></li>
-                <li><a class="" href="sobre.html">Sobre</a>
+                <li><a class="" href="">Sobre</a>
                     <ul>
-                        <li><a href="#">Quem somos</a></li>
+                        <li><a href="sobre.php">Quem somos</a></li>
                         <li><a href="#">Onde estamos</a></li>
                         <li><a href="#">Siga nossas páginas</a></li>
                     </ul>
