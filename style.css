@@ -31,21 +31,22 @@ body{max-width:1200px; margin: 0 auto; background: rgba(242, 0, 0, 0.776);font-f
 .form p{display: inline-block;width: 100%;color: #BBBBBB;font-size: 17px;margin:20px 0;}
 .form .input-submit-container{text-align: center;}
 .form .input[type=submit]{color: rgb(8, 0, 255);	font-size: 25px;width: 280px;height: 56px;display: inline-block;
-	background-color: #000a79;border-top:0;border-right: 0;border-left: 0;
+	background-color: #000a79; border-top:0; border-right: 0;border-left: 0;
 	cursor: pointer;border-bottom: 5px solid #fb0000;}
 .form input[type=submit]:hover{	background-color: #910000;}
 
 .input-container{margin-top:10px;}
-.input-container span{display: inline-block;width: 100%;color: #BBBBBB;font-size: 17px;}
+.input-container span{display: inline-block;width: 100%; color: #BBBBBB;font-size: 17px;}
 .input-container input[type=text]{margin-top:8px;width: 344px;height: 55px;border:1px solid #ccc;}
 
-.img_fundo{width: 650px;height: 550px;}
+.img_fundo{width: 650px; height: 550px;}
+.img_england{width: 75px; height: 30px;}
 .img_rodape{position:absolute;width: 50px;left: 50%;}
 
 .conteudo{
-	font-size: 25px;
+	font-size: 18px;
 	color: rgb(255, 255, 255); 
 	font-family: cursive;
-	padding: 3rem;
-	text-align: center;
+	padding: 1rem;
+	text-align:left;
 }

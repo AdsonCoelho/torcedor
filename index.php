@@ -75,8 +75,14 @@
 	<main class="conteudo">
 		<section class="">
 			<div class="">
-				<h1>Bem vindos ao blog da torcida!</h1>
+				<h1>Seja bem vindo ao blog dos apaixonados pelo futebol Inglês! 
+				Nosso conteúdo foi criado especialmente para você que curte 
+				a mais emocinante liga de funtebol do mundo!
+				<img class="img_england" src="imagens/england.jpg"></a>
+				</h1>				
+				
 			</div>
+			
 		</section>
 
 		<div class="moldbt"></div>
