@@ -8,7 +8,9 @@
 	<meta http-equiv="cache-control" content="no-cache" />		
 
 </head>
-
+<?php
+	include "menu.php";
+?>
 <script language="javascript">
 			
 	function preload(){
@@ -65,11 +67,10 @@
 	}
 
 </script>
+
 <body onload="iniciaSlider()">
 	
-	<?php
-	include "menu.php";
-	?>
+	
 
 	
 	<main class="conteudo">
