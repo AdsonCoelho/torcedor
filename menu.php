@@ -40,9 +40,12 @@
                 
                 <li><a class="" href="#">Campeonatos</a>
                     <ul>
-                        <li><a href="#">Na Inglaterra</a></li>
-                        <li><a href="#">No Brasil</a></li>                        
+                        <li><a href="#">Premier League</a></li>
+                        <li><a href="#">Championship </a></li>                        
+                        <li><a href="#">League One </a></li>                        
                     </ul>
+
+                    
                
                 <li><a class="" href="">Quem somos</a>
                     <ul>

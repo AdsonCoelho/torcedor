@@ -89,10 +89,48 @@
 				<input type="button" value="Próximo" onclick="troca(1)"/>
 			</div>
 			
+		
+			<div class="quis">
+				<h3>Qual o melhor time inglês?</h3>
+			</div>
+			<form class="conteudo">
+			<div>
+				<input type="radio" id="Choice1"
+				name="liverpool" value="liverpool">
+				<label for="Choice1">Liverpool</label> <br>
+
+				<input type="radio" id="Choice2"
+				name="city" value="city">
+				<label for="Choice2">Manchester City</label> <br>
+
+				<input type="radio" id="Choice3"
+				name="united" value="united">
+				<label for="Choice3">Manchester United</label> <br>
+
+				<input type="radio" id="Choice4"
+				name="arsenal" value="arsenal">
+				<label for="Choice4">Arsenal</label> <br>
+
+				<input type="radio" id="Choice5"
+				name="chelsea" value="chelsea">
+				<label for="Choice5">Chelsea</label> <br>
+
+				<input type="radio" id="Choice6"
+				name="tottenhan" value="tottenhan">
+				<label for="Choice6">Tottenhan</label> <br>
+
+				<input type="radio" id="Choice7"
+				name="other" value="other">
+				<label for="Choice7">Outro</label> <br>
+			</div>
+			<div>
+				<button type="submit">Submit</button>
+			</div>
+			</form>
+
 			<div class="postagens">
 				<h3>Últimas postagens...</h3>
 			</div>
-		
 	</main>
 
 	<footer class="rodape">
