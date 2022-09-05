@@ -6,7 +6,7 @@ body{max-width:1200px; margin: 0 auto; background: rgba(242, 0, 0, 0.776);font-f
 .header img{margin: 10px;}
 .cabecalho{position:relative; color: rgb(8, 0, 255); font-family: cursive;}
 
-#menu_resp{width:600px;}
+#menu_resp{width:800px;}
 #menu_resp li:hover{background:rgb(0, 0, 0);}
 .menu_resp{list-style:none;border:2px solid rgb(255, 255, 255);float:none;}
 .menu_resp li{position:relative;float:left;border-right:1px solid rgb(255, 255, 255);}
@@ -15,7 +15,7 @@ body{max-width:1200px; margin: 0 auto; background: rgba(242, 0, 0, 0.776);font-f
 .menu_resp li a{color:rgb(255, 255, 255); text-decoration:none; padding:5px 10px; display:block;}
 .menu_resp li:hover ul, .menu li.over ul{display:block;}
 
-#moldura{width: 850px; height: 600px;background-color:rgb(230, 230, 230);
+#moldura{width: 800px; height: 600px; background-color:rgb(230, 230, 230);
 	transition: background-image 1s;text-align: center;}
 .mold{position: relative;left: 10%;}
 .moldbt{position:relative;text-align: center;}
@@ -40,7 +40,7 @@ body{max-width:1200px; margin: 0 auto; background: rgba(242, 0, 0, 0.776);font-f
 .input-container input[type=text]{margin-top:8px;width: 344px;height: 55px;border:1px solid #ccc;}
 
 .img_fundo{width: 650px; height: 550px;}
-.img_england{width: 65px; height: 30px;}
+.img_england{width: 60px; height: 25px;}
 .img_rodape{position:absolute;width: 50px;left: 50%;}
 
 .conteudo{

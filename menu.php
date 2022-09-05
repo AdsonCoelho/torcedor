@@ -5,29 +5,28 @@
         <meta charset="utf-8">
         <link a href="style.css" type="text/css" rel="stylesheet" />
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta http-equiv="cache-control" content="no-cache" />		
-        
+        <meta http-equiv="cache-control" content="no-cache" />		        
     </head>
     <body>
         <nav>
             <ul class="menu_resp">
                 <li><a class="" href="index.php">Home</a>
                     <ul>
-                        <li><a href="#">Inicio</a></li>                        
+                        <li><a href="index.php">Inicio</a></li>                        
                     </ul>
                 </li>
                 
-                <li><a class="" href="login.php">Usuário</a>
+                <li><a class="" href="#">Usuário</a>
                     <ul>
-                        <li><a href="#">Login</a></li>                        
+                        <li><a href="login.php">Login</a></li>                        
                         <li><a href="#">Cadastrar</a></li>
                     </ul>
                 </li>	
                 
-                <li><a class="" href="posts.php">Posts</a>
+                <li><a class="" href="#">Posts</a>
                     <ul>
-                        <li><a href="#">Novos</a></li>                        
-                        <li><a href="#">Antigos</a></li>
+                        <li><a href="posts.php">Novos</a></li>                        
+                        <li><a href="posts.php">Antigos</a></li>
                     </ul>
                 </li>
                 
@@ -45,9 +44,9 @@
                         <li><a href="#">No Brasil</a></li>                        
                     </ul>
                
-                <li><a class="" href="">Sobre</a>
+                <li><a class="" href="">Quem somos</a>
                     <ul>
-                        <li><a href="sobre.php">Quem somos</a></li>
+                        <li><a href="sobre.php">Sobre</a></li>
                         <li><a href="#">Onde estamos</a></li>
                         <li><a href="#">Fale conosco</a></li>
                     </ul>
