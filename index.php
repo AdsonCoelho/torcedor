@@ -8,6 +8,9 @@
 	<meta http-equiv="cache-control" content="no-cache" />		
 
 </head>
+	<img class="img_england" src="imagens/england.jpg"></a>
+	<img class="img_brasil" src="imagens/brasil.jpg"></a>
+
 <?php
 	include "menu.php";
 ?>
@@ -72,11 +75,10 @@
 	<main class="conteudo">
 		<section class="">
 			<div class="">
-				<h1>Bem vindos ao blog nosso blog!</h1> 
+				<h1>Sejam bem vindos! Torcedores e fãs de esportes</h1> 
 				
-				<h2>Nosso conteúdo foi criado especialmente para você que curte 
-				a mais emocinante liga de funtebol do mundo!
-				<img class="img_england" src="imagens/england.jpg"></a>
+				<h2>Nosso conteúdo foi criado especialmente para você 
+					que curte a mais emocinante liga de funtebol do mundo!
 				</h2>				
 				
 			</div>
@@ -90,11 +92,11 @@
 			</div>
 			
 		
-			<div class="quis">
-				<h3>Qual o melhor time inglês?</h3>
-			</div>
-			<form class="conteudo">
-			<div>
+			<form>
+			
+			<h3>Qual o melhor time inglês?</h3>
+				
+			<div class="conteudo">
 				<input type="radio" id="Choice1"
 				name="liverpool" value="liverpool">
 				<label for="Choice1">Liverpool</label> <br>
@@ -124,7 +126,7 @@
 				<label for="Choice7">Outro</label> <br>
 			</div>
 			<div>
-				<button type="submit">Submit</button>
+			<button type="submit">Submit</button>
 			</div>
 			</form>
 

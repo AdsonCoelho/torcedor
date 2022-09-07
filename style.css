@@ -41,7 +41,10 @@ body{max-width:1200px; margin: 0 auto; background: rgba(242, 0, 0, 0.776);font-f
 
 .img_fundo{width: 650px; height: 550px;}
 .img_england{width: 60px; height: 25px;}
+.img_brasil{width: 60px; height: 25px;}
+
 .img_rodape{position:absolute;width: 50px;left: 50%;}
+
 
 .conteudo{
 	font-size: 18px;

@@ -29,7 +29,12 @@
                         <li><a href="posts.php">Antigos</a></li>
                     </ul>
                 </li>
-                
+                <li><a class="" href="#">Clubes</a>
+                    <ul>
+                        <li><a href="posts.php">Estádios</a></li>                        
+                        <li><a href="posts.php">Torcidas</a></li>
+                    </ul>
+                </li>
                 <li><a class="" href="">Entretenimento</a>
                     <ul>
                         <li><a href="#">Curiosidades</a></li>
