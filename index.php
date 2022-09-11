@@ -8,9 +8,10 @@
 	<meta http-equiv="cache-control" content="no-cache" />		
 
 </head>
-	<img class="img_england" src="imagens/england.jpg"></a>
-	<img class="img_brasil" src="imagens/brasil.jpg"></a>
-
+	<div class="bandeiras">
+	<img class="" src="imagens/england.jpg"></a>
+	<img class="" src="imagens/brasil.jpg"></a>
+	</div>
 <?php
 	include "menu.php";
 ?>
