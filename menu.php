@@ -19,7 +19,7 @@
                 <li><a class="" href="#">Usuário</a>
                     <ul>
                         <li><a href="login.php">Login</a></li>                        
-                        <li><a href="#">Cadastrar</a></li>
+                        <li><a href="cadastro.php">Cadastrar</a></li>
                     </ul>
                 </li>	
                 
