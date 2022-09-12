@@ -10,7 +10,7 @@
     <body>
         <nav>
             <ul class="menu_resp">
-                <li><a class="" href="index.php">Home</a>
+                <li><a class="" href="#">Home</a>
                     <ul>
                         <li><a href="index.php">Inicio</a></li>                        
                     </ul>
@@ -31,8 +31,8 @@
                 </li>
                 <li><a class="" href="#">Clubes</a>
                     <ul>
-                        <li><a href="posts.php">Estádios</a></li>                        
-                        <li><a href="posts.php">Torcidas</a></li>
+                        <li><a href="https://pt.wikipedia.org/wiki/Categoria:Est%C3%A1dios_de_futebol_da_Inglaterra">Estádios</a></li>                        
+                        <li><a href="https://www.esportelandia.com.br/futebol/maiores-torcidas-da-inglaterra/">Torcidas</a></li>
                     </ul>
                 </li>
                 <li><a class="" href="">Entretenimento</a>
