@@ -7,11 +7,15 @@
 		<title>Sobre</title>
 	</head>
 	
-	<body class="">
+	<img class="img_england" src="imagens/england.jpg"></a>
+	<img class="img_brasil" src="imagens/brasil.jpg"></a>
 
 	<?php
 		include "menu.php";
 	?>
+	
+	<body class="">
+
 
 	
 	<main class="conteudo">

@@ -40,8 +40,8 @@ body{max-width:1200px; margin: 0 auto; background: rgba(242, 0, 0, 0.776);font-f
 .input-container input[type=text]{margin-top:8px;width: 344px;height: 55px;border:1px solid #ccc;}
 
 .img_fundo{width: 650px; height: 550px;}
-.img_england{width: 60px; height: 25px; right: 20px ;}
-.img_brasil{width: 60px; height: 25px; right: 20px;}
+.img_england{width: 60px; height: 25px; left: 20% ;}
+.img_brasil{width: 60px; height: 25px; left: 20%;}
 
 .img_rodape{position:absolute;width: 50px;left: 50%;}
 
