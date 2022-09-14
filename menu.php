@@ -45,9 +45,9 @@
                 
                 <li><a class="" href="#">Campeonatos</a>
                     <ul>
-                        <li><a href="#">Premier League</a></li>
-                        <li><a href="#">Championship </a></li>                        
-                        <li><a href="#">League One </a></li>                        
+                        <li><a href="https://www.espn.com.br/futebol/classificacao/_/liga/eng.1">Premier League</a></li>
+                        <li><a href="https://www.flashscore.com.br/futebol/inglaterra/2-divisao/classificacao/">Championship </a></li>                        
+                        <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-1/classificacao/">League One </a></li>                        
                     </ul>
 
                     
