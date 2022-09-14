@@ -15,7 +15,16 @@
                         <li><a href="index.php">Inicio</a></li>                        
                     </ul>
                 </li>
-                
+                <li><a class="" href="#">Campeonatos</a>
+                    <ul>
+                        <li><a href="https://www.espn.com.br/futebol/classificacao/_/liga/eng.1">Premier League</a></li>
+                        <li><a href="https://www.flashscore.com.br/futebol/inglaterra/2-divisao/classificacao/">Championship - 2ª divisão </a></li>                        
+                        <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-1/classificacao/">League One -3ª divisão</a></li>
+                        <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-2/">League Two - 4ª divisão </a></li>                                                                    
+                        <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-nacional/">National League - 5ª divisão </a></li>                                                                    
+                        <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-nacional-norte/">National League North - 6ª divisão Norte </a></li>                                                                    
+                        <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-nacional-sul/">National League South - 6ª divisão Sul </a></li>                                                                    
+                    </ul>
                 <li><a class="" href="#">Usuário</a>
                     <ul>
                         <li><a href="login.php">Login</a></li>                        
@@ -43,12 +52,7 @@
                     </ul>
                 </li>
                 
-                <li><a class="" href="#">Campeonatos</a>
-                    <ul>
-                        <li><a href="https://www.espn.com.br/futebol/classificacao/_/liga/eng.1">Premier League</a></li>
-                        <li><a href="https://www.flashscore.com.br/futebol/inglaterra/2-divisao/classificacao/">Championship </a></li>                        
-                        <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-1/classificacao/">League One </a></li>                        
-                    </ul>
+                
 
                     
                
