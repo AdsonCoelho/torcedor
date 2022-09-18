@@ -32,13 +32,6 @@
                     </ul>
                 </li>
                 
-                <li><a class="" href="#">Usuário</a>
-                    <ul>
-                        <li><a href="login.php">Login</a></li>                        
-                        <li><a href="cadastro.php">Cadastrar</a></li>
-                    </ul>
-                </li>	
-                
                 <li><a class="" href="#">Posts</a>
                     <ul>
                         <li><a href="posts.php">Novos</a></li>                        
@@ -59,10 +52,6 @@
                     </ul>
                 </li>
                 
-                
-
-                    
-               
                 <li><a class="" href="">Quem somos</a>
                     <ul>
                         <li><a href="sobre.php">Sobre</a></li>
@@ -70,7 +59,10 @@
                         <li><a href="#">Fale conosco</a></li>
                     </ul>
                 </li>
+                    <a href="login.php"><img class="icon_user" src="imagens/icon_user.png"></a>
             </ul>
+          
+
          </nav>
     </body>
 </html>

@@ -54,3 +54,4 @@ body{max-width:1200px; margin: 0 auto; background: rgba(242, 0, 0, 0.776);font-f
 	text-align:left;
 }
 
+.icon_user{	position:absolute; text-align:center; width: 50px; height: 35px; }

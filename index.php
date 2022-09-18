@@ -137,7 +137,7 @@
 	</main>
 
 	<footer class="rodape">
-		<img class="img_rodape" src="imagens/rodape.png"></a>
+		<img class="img_rodape " src="imagens/rodape.png" ></a>
 	</footer>
 	
 </body>
