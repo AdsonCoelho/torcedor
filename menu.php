@@ -26,9 +26,9 @@
                 <li><a class="" href="#">Outras ligas</a>
                     <ul>
                         <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-2/">League Two - 4ª divisão </a></li>                                                                    
-                        <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-nacional/">National League - 5ª divisão </a></li>                                                                    
-                        <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-nacional-norte/">National League North - 6ª divisão Norte </a></li>                                                                    
-                        <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-nacional-sul/">National League South - 6ª divisão Sul </a></li>                                                                    
+                        <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-nacional/">Nat. League - 5ª divisão </a></li>                                                                    
+                        <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-nacional-norte/">Nat. League - 6ª divisão Norte </a></li>                                                                    
+                        <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-nacional-sul/">Nat. League - 6ª divisão Sul </a></li>                                                                    
                     </ul>
                 </li>
                 
