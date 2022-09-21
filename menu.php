@@ -15,9 +15,11 @@
                         <li><a href="index.php">Inicio</a></li>                        
                     </ul>
                 </li>
-                <li><a class="" href="#">Principais ligas</a>
+                <li><a class="" href="#">Principais ligas Inglesas</a>
                     <ul>
                         <li><a href="https://www.flashscore.com.br/futebol/inglaterra/campeonato-ingles/">Premier League</a></li>
+                        <li><a href="#">Copa da Liga Inglesa </a></li>                        
+                        <li><a href="#">Copa da inglaterra </a></li>                        
                         <li><a href="https://www.flashscore.com.br/futebol/inglaterra/2-divisao/classificacao/">Championship - 2ª divisão </a></li>                        
                         <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-1/classificacao/">League One -3ª divisão</a></li>                        
                     </ul>
