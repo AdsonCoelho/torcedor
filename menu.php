@@ -20,13 +20,14 @@
                         <li><a href="https://www.flashscore.com.br/futebol/inglaterra/campeonato-ingles/">Premier League</a></li>
                         <li><a href="#">Copa da Liga Inglesa </a></li>                        
                         <li><a href="#">Copa da inglaterra </a></li>                        
-                        <li><a href="https://www.flashscore.com.br/futebol/inglaterra/2-divisao/classificacao/">Championship - 2ª divisão </a></li>                        
-                        <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-1/classificacao/">League One -3ª divisão</a></li>                        
+                                              
                     </ul>
                 </li>
 
                 <li><a class="" href="#">Outras ligas</a>
                     <ul>
+                        <li><a href="https://www.flashscore.com.br/futebol/inglaterra/2-divisao/classificacao/">Championship - 2ª divisão </a></li>                        
+                        <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-1/classificacao/">League One -3ª divisão</a></li>  
                         <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-2/">League Two - 4ª divisão </a></li>                                                                    
                         <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-nacional/">Nat. League - 5ª divisão </a></li>                                                                    
                         <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-nacional-norte/">Nat. League - 6ª divisão Norte </a></li>                                                                    
