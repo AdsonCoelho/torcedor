@@ -10,46 +10,32 @@
     <body>
         <nav>
             <ul class="menu_resp">
-                <li><a class="" href="#">Home</a>
-                    <ul> <li><a href="index.php">Inicio</a></li> </ul>
+                <li><a class="" href="#">Principal</a>
+                  <ul> <li><a href="index.php">Inicio</a></li> </ul> 
                 </li>
-                <li><a class="" href="#">Principais ligas Inglesas</a>
-                    <ul>
-                        <li><a href="https://www.flashscore.com.br/futebol/inglaterra/campeonato-ingles/">Premier League</a></li>
-                        <li><a href="#">Copa da Liga Inglesa </a></li>                        
-                        <li><a href="#">Copa da inglaterra </a></li>                        
-                    </ul>
+                <li><a class="smenu_resp" href="#">Principais ligas</a>
+                   <ul>
+                     <li><a href="https://www.flashscore.com.br/futebol/inglaterra/campeonato-ingles/">Premier League</a></li>
+                     <li><a href="#">Copa da Liga Inglesa </a></li>                        
+                     <li><a href="#">Copa da inglaterra </a></li>                        
+                   </ul>
                 </li>
-
-
-               <li><a href="#">Menu 1</a>
-                    <ul class="submenu-1">
-                        <li><a href="#">Submenu 2</a>
-                            <ul class="submenu-2">
-                                <li><a href="#">Submenu 3</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                </li>
-
+            
                 <li><a class="" href="#">Outras ligas</a>
                     <ul>
-                        <li><a class="" href="#">Divisões de acesso</a>
-                        <ul>
-                            <li><a href="https://www.flashscore.com.br/futebol/inglaterra/2-divisao/classificacao/">Championship - 2ª divisão </a></li>                        
-                            <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-1/classificacao/">League One -3ª divisão</a></li>  
-                            <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-2/">League Two - 4ª divisão </a></li>                                                                    
-                        </ul>
-                        </li>
+                      <li><a class="smenu_resp" href="#">Divisões de acesso</a>
+                      <li><a href="https://www.flashscore.com.br/futebol/inglaterra/2-divisao/classificacao/">Championship - 2ª divisão </a></li>                        
+                      <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-1/classificacao/">League One -3ª divisão</a></li>  
+                      <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-2/">League Two - 4ª divisão </a></li>                                                                    
+                     </ul>
+                </li>
                           
-                        <li><a class="" href="#">Outras divisões</a>
-                        <ul>
-                            <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-nacional/">Nat. League - 5ª divisão </a></li>                                                                    
-                            <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-nacional-norte/">Nat. League - 6ª divisão Norte </a></li>                                                                    
-                            <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-nacional-sul/">Nat. League - 6ª divisão Sul </a></li>                                                                    
-                        </ul>
-                        </li>
-                    </ul>
+                <li><a class="" href="#">Divisões nacionais</a>
+                  <ul>
+                    <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-nacional/">Nat. League - 5ª divisão </a></li>                                                                    
+                    <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-nacional-norte/">Nat. League - 6ª divisão Norte </a></li>                                                                    
+                    <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-nacional-sul/">Nat. League - 6ª divisão Sul </a></li>                                                                    
+                  </ul>
                 </li>
                 
                 <li><a class="" href="#">Posts</a>
@@ -80,8 +66,6 @@
                     </ul>
                 </li>
                     <a href="login.php"><img class="icon_user" src="imagens/icon_user.png"></a>
-            
- 
     </ul>
          
          </nav>
