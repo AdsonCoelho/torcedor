@@ -8,10 +8,14 @@
         <meta http-equiv="cache-control" content="no-cache" />		
         
     </head>
+    <img class="img_england" src="imagens/england.jpg"></a>
+	<img class="img_brasil" src="imagens/brasil.jpg"></a>
+
+	<?php
+		include "menu.php";
+	?>
     <body>
-        <?php
-            include "menu.php";
-        ?>
+      
     
         <main class="container-banner">
             <div class="conteudo"> 

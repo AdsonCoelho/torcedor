@@ -15,6 +15,10 @@ body{max-width:1200px; margin: 0 auto; background: rgba(242, 0, 0, 0.776);font-f
 .menu_resp li a{color:rgb(255, 255, 255); text-decoration:none; padding:5px 10px; display:block;}
 .menu_resp li:hover ul, .menu li.over ul{display:block;}
 
+
+
+
+
 #moldura{width: 600px; height: 400px; background-color:rgb(230, 230, 230);
 	transition: background-image 1s;text-align: center;}
 .mold{position: relative;left: 20%;}

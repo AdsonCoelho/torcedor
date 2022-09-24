@@ -21,16 +21,15 @@
                    </ul>
                 </li>
             
-                <li><a class="" href="#">Outras ligas</a>
+                <li><a class="smenu_resp" href="#">Divisões de acesso</a>
                     <ul>
-                      <li><a class="smenu_resp" href="#">Divisões de acesso</a>
                       <li><a href="https://www.flashscore.com.br/futebol/inglaterra/2-divisao/classificacao/">Championship - 2ª divisão </a></li>                        
                       <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-1/classificacao/">League One -3ª divisão</a></li>  
                       <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-2/">League Two - 4ª divisão </a></li>                                                                    
                      </ul>
                 </li>
                           
-                <li><a class="" href="#">Divisões nacionais</a>
+                <li><a class="" href="#">Ligas nacionais</a>
                   <ul>
                     <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-nacional/">Nat. League - 5ª divisão </a></li>                                                                    
                     <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-nacional-norte/">Nat. League - 6ª divisão Norte </a></li>                                                                    
@@ -38,9 +37,9 @@
                   </ul>
                 </li>
                 
-                <li><a class="" href="#">Posts</a>
+                <li><a class="" href="#">Seleção</a>
                     <ul>
-                        <li><a href="posts.php">Novos</a></li>                        
+                        <li><a href="posts.php">Torneios</a></li>                        
                         <li><a href="posts.php">Antigos</a></li>
                     </ul>
                 </li>
@@ -50,14 +49,7 @@
                         <li><a href="https://www.esportelandia.com.br/futebol/maiores-torcidas-da-inglaterra/">Torcidas</a></li>
                     </ul>
                 </li>
-                <li><a class="" href="">Entretenimento</a>
-                    <ul>
-                        <li><a href="#">Curiosidades</a></li>
-                        <li><a href="#">Teste seus conhecimentos</a></li>
-                        <li><a href="#">Conte sua história</a></li>
-                    </ul>
-                </li>
-                
+                          
                 <li><a class="" href="">Quem somos</a>
                     <ul>
                         <li><a href="sobre.php">Sobre</a></li>
