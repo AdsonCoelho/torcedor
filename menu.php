@@ -10,8 +10,12 @@
     <body>
         <nav>
             <ul class="menu_resp">
-                <li><a class="" href="#">Principal</a>
-                  <ul> <li><a href="index.php">Inicio</a></li> </ul> 
+                <li><a class="" href="#">Inicio</a>
+                  <ul> 
+                    <li><a href="index.php">Página principal</a></li>
+                    <li><a href="https://pt.wikipedia.org/wiki/Categoria:Est%C3%A1dios_de_futebol_da_Inglaterra">Estádios</a></li>                        
+                    <li><a href="https://www.esportelandia.com.br/futebol/maiores-torcidas-da-inglaterra/">Torcidas</a></li> 
+                </ul> 
                 </li>
                 <li><a class="smenu_resp" href="#">Principais ligas</a>
                    <ul>
@@ -38,22 +42,16 @@
                 </li>
                 <li><a class="" href="#">Futebol feminino</a>
                   <ul>
-                    <li><a href="https://www.espn.com.br/futebol/classificacao/_/liga/eng.w.1">Nat. League - 5ª divisão </a></li>                                                                    
+                    <li><a href="https://www.espn.com.br/futebol/classificacao/_/liga/eng.w.1">English Women's Super League </a></li>                                                                    
                   </ul>
                 </li>
                 <li><a class="" href="#">Seleção</a>
                     <ul>
-                        <li><a href="posts.php">Torneios</a></li>                        
-                        <li><a href="posts.php">Antigos</a></li>
+                        <li><a href="https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Inglesa_de_Futebol">História</a></li>                        
+                        <li><a href="https://pt.wikipedia.org/wiki/Copa_do_Mundo_FIFA_de_2022">Copa do mundo 2022</a></li>
                     </ul>
                 </li>
-                <li><a class="" href="#">Clubes</a>
-                    <ul>
-                        <li><a href="https://pt.wikipedia.org/wiki/Categoria:Est%C3%A1dios_de_futebol_da_Inglaterra">Estádios</a></li>                        
-                        <li><a href="https://www.esportelandia.com.br/futebol/maiores-torcidas-da-inglaterra/">Torcidas</a></li>
-                    </ul>
-                </li>
-                          
+                                       
                 <li><a class="" href="">Quem somos</a>
                     <ul>
                         <li><a href="sobre.php">Sobre</a></li>
