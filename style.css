@@ -15,13 +15,9 @@ body{max-width:1200px; margin: 0 auto; background: rgba(242, 0, 0, 0.776);font-f
 .menu_resp li a{color:rgb(255, 255, 255); text-decoration:none; padding:5px 10px; display:block;}
 .menu_resp li:hover ul, .menu li.over ul{display:block;}
 
-
-
-
-
 #moldura{width: 600px; height: 400px; background-color:rgb(230, 230, 230);
 	transition: background-image 1s;text-align: center;}
-.mold{position: relative;left: 20%;}
+.mold{position: relative;left: 0%;}
 .moldbt{position:relative;text-align: center;}
 
 .postagens{font-style: italic;}
@@ -50,12 +46,6 @@ body{max-width:1200px; margin: 0 auto; background: rgba(242, 0, 0, 0.776);font-f
 .img_rodape{position:absolute;width: 50px;left: 50%;}
 
 
-.conteudo{
-	font-size: 18px;
-	color: rgb(255, 255, 255); 
-	font-family: cursive;
-	padding: 1rem;
-	text-align:left;
-}
+.conteudo{font-size: 18px; color: rgb(255, 255, 255); font-family: cursive;padding: 1rem;}
 
 .icon_user{	position:absolute; text-align:center; width: 50px; height: 35px; }

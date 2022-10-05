@@ -73,66 +73,62 @@
 </script>
 
 <body onload="iniciaSlider()">
-	<main class="conteudo">
+	<main class="">
 		<section class="">
 			<div class="">
-				<h1>Sejam bem vindos! Torcedores e fãs de esportes</h1> 
-				
-				<h2>Nosso conteúdo foi criado especialmente para você 
-					que curte a mais emocinante liga de funtebol do mundo!
-				</h2>				
-				
+					<br><br><br><br>
 			</div>
 			
 		</section>
 
-		<div class="moldbt"></div>
+			<form>
+			
 			<div class="mold" id="moldura">
 				<input type="button" value="Anterior"onclick="troca(-1)"/>
 				<input type="button" value="Próximo" onclick="troca(1)"/>
-			</div>
+			</div>				
 			
-		
-			<form>
-			
-			<h3>Qual o melhor time inglês?</h3>
-				
 			<div class="conteudo">
-				<input type="radio" id="Choice1"
-				name="liverpool" value="liverpool">
-				<label for="Choice1">Liverpool</label> <br>
+				
+				<h3>Qual é o melhor time inglês atualmente?</h3>
 
-				<input type="radio" id="Choice2"
-				name="city" value="city">
-				<label for="Choice2">Manchester City</label> <br>
+					<input type="radio" id="Choice1"
+					name="liverpool" value="liverpool">
+					<label for="Choice1">Liverpool</label> <br>
 
-				<input type="radio" id="Choice3"
-				name="united" value="united">
-				<label for="Choice3">Manchester United</label> <br>
+					<input type="radio" id="Choice2"
+					name="city" value="city">
+					<label for="Choice2">Manchester City</label> <br>
 
-				<input type="radio" id="Choice4"
-				name="arsenal" value="arsenal">
-				<label for="Choice4">Arsenal</label> <br>
+					<input type="radio" id="Choice3"
+					name="united" value="united">
+					<label for="Choice3">Manchester United</label> <br>
 
-				<input type="radio" id="Choice5"
-				name="chelsea" value="chelsea">
-				<label for="Choice5">Chelsea</label> <br>
+					<input type="radio" id="Choice4"
+					name="arsenal" value="arsenal">
+					<label for="Choice4">Arsenal</label> <br>
 
-				<input type="radio" id="Choice6"
-				name="tottenhan" value="tottenhan">
-				<label for="Choice6">Tottenhan</label> <br>
+					<input type="radio" id="Choice5"
+					name="chelsea" value="chelsea">
+					<label for="Choice5">Chelsea</label> <br>
 
-				<input type="radio" id="Choice7"
-				name="other" value="other">
-				<label for="Choice7">Outro</label> <br>
-			</div>
-			<div>
-			<button type="submit">Submit</button>
-			</div>
+					<input type="radio" id="Choice6"
+					name="tottenhan" value="tottenhan">
+					<label for="Choice6">Tottenhan</label> <br>
+
+					<input type="radio" id="Choice7"
+					name="other" value="other">
+					<label for="Choice7">Outro</label> <br>
+				</div>
+
+				<div>
+					<button type="submit">Submit</button>
+				</div>
+
 			</form>
 
 			<div class="postagens">
-				<h3>Últimas postagens...</h3>
+				<h3>Últimas notícias do futebol...</h3>
 			</div>
 	</main>
 
