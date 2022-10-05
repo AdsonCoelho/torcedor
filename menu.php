@@ -29,7 +29,7 @@
                 <li><a class="smenu_resp" href="#">Divisões de acesso</a>
                     <ul>
                       <li><a href="https://www.flashscore.com.br/futebol/inglaterra/2-divisao/classificacao/">Championship - 2ª divisão </a></li>                        
-                      <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-1/classificacao/">League One -3ª divisão</a></li>  
+                      <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-1/classificacao/">League One - 3ª divisão</a></li>  
                       <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-2/">League Two - 4ª divisão </a></li>                                                                    
                      </ul>
                 </li>
