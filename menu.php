@@ -41,11 +41,11 @@
                     <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-nacional-sul/">Nat. League - 6ª divisão Sul </a></li>                                                                    
                   </ul>
                 </li>
-                <li><a class="" href="#">Outras ligas</a>
+                <li><a class="" href="#">ligas europeias</a>
                   <ul>
-                  <li><a href="#">liga dos campeões </a></li>  
-                  <li><a href="#">Liga europa </a></li>  
-                  <li><a href="#">Liga conferência </a></li>  
+                  <li><a href="#">Champions League</a></li>  
+                  <li><a href="#">Europa League </a></li>  
+                  <li><a href="#">Conference League </a></li>  
 
                   </ul>
                 </li>
