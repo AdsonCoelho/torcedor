@@ -21,7 +21,8 @@
                    <ul>
                      <li><a href="https://www.flashscore.com.br/futebol/inglaterra/campeonato-ingles/">Premier League</a></li>
                      <li><a href="#">Copa da Liga Inglesa </a></li>                        
-                     <li><a href="#">Copa da inglaterra </a></li>                        
+                     <li><a href="#">Copa da inglaterra </a></li>  
+                     <li><a href="https://www.espn.com.br/futebol/classificacao/_/liga/eng.w.1">English Women's Super League </a></li>                                                                                          
                    </ul>
                 </li>
             
@@ -40,9 +41,12 @@
                     <li><a href="https://www.flashscore.com.br/futebol/inglaterra/liga-nacional-sul/">Nat. League - 6ª divisão Sul </a></li>                                                                    
                   </ul>
                 </li>
-                <li><a class="" href="#">Futebol feminino</a>
+                <li><a class="" href="#">Outras ligas</a>
                   <ul>
-                    <li><a href="https://www.espn.com.br/futebol/classificacao/_/liga/eng.w.1">English Women's Super League </a></li>                                                                    
+                  <li><a href="#">liga dos campeões </a></li>  
+                  <li><a href="#">Liga europa </a></li>  
+                  <li><a href="#">Liga conferência </a></li>  
+
                   </ul>
                 </li>
                 <li><a class="" href="#">Seleção</a>
